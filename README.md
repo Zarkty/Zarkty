@@ -80,8 +80,8 @@
   <tr>
     <td width="90" align="center">🔒</td>
     <td>
-      <b>Othrys</b> &nbsp;<img src="https://img.shields.io/badge/estado-en%20pausa-lightgrey?style=flat-square"/><br/>
-      Proyecto propio de ciberseguridad para Microsoft 365, ahora mismo en pausa. Los detalles se mantienen en privado — <i>más información en el futuro</i>.
+      <b>Othrys</b> &nbsp;<img src="https://img.shields.io/badge/estado-en%20desarrollo-f5b83d?style=flat-square"/><br/>
+      Proyecto propio de ciberseguridad para Microsoft 365, actualmente en desarrollo. Los detalles se mantienen en privado — <i>más información en el futuro</i>.
     </td>
   </tr>
 </table>
