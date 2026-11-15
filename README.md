@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://othrys.zarkty.com"><img src="https://img.shields.io/badge/Portfolio-othrys.zarkty.com-f5b83d?style=for-the-badge&logo=powershell&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/adediu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:alindediu26@hotmail.com"><img src="https://img.shields.io/badge/Email-alindediu26%40hotmail.com-0078D4?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
   <a href="./cv/Alin_Dediu_Poteras_CV_ES.pdf"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-2c5364?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
@@ -68,8 +69,8 @@
   <tr>
     <td width="90" align="center">🔒</td>
     <td>
-      <b>Othrys</b> &nbsp;<img src="https://img.shields.io/badge/estado-en%20desarrollo-orange?style=flat-square"/><br/>
-      Proyecto propio en desarrollo activo. Los detalles se mantienen en privado por ahora — <i>próximamente más información</i>.
+      <b>Othrys</b> &nbsp;<img src="https://img.shields.io/badge/estado-en%20pausa-lightgrey?style=flat-square"/><br/>
+      Proyecto propio de ciberseguridad para Microsoft 365, ahora mismo en pausa. Los detalles se mantienen en privado — <i>más información en el futuro</i>.
     </td>
   </tr>
 </table>
