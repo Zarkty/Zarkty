@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://othrys.zarkty.com"><img src="https://img.shields.io/badge/Portfolio-othrys.zarkty.com-f5b83d?style=for-the-badge&logo=powershell&logoColor=white"/></a>
+  <a href="https://portfolio.zarkty.com"><img src="https://img.shields.io/badge/Portfolio-portfolio.zarkty.com-f5b83d?style=for-the-badge&logo=powershell&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/adediu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:alindediu26@hotmail.com"><img src="https://img.shields.io/badge/Email-alindediu26%40hotmail.com-0078D4?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
   <a href="./cv/Alin_Dediu_Poteras_CV_ES.pdf"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-2c5364?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
@@ -55,11 +55,22 @@
 
 ---
 
-## 🏆 Formación y certificaciones
+## 🎓 Formación
 
-- 🎓 **Grado en Ingeniería Informática** — Universidad Isabel I (2025 – actualidad)
-- 🎓 **CFGS Administración de Sistemas Informáticos en Red (ASIR)** — IES Clara del Rey, Madrid (2023 – 2025)
-- 🔒 **Introduction to Cybersecurity** — Cisco (2026)
+- **Grado en Ingeniería Informática** — Universidad Isabel I (2025 – actualidad)
+- **CFGS Administración de Sistemas Informáticos en Red (ASIR) · Dual** — IES Clara del Rey, Madrid (2023 – 2025)
+- **CFGM Sistemas Microinformáticos y Redes (SMR)** — IES Clara del Rey, Madrid (2021 – 2023)
+
+## 🏆 Certificaciones
+
+<p align="left">
+  <a href="https://www.credly.com/badges/d2ea1d00-1879-4e57-ba79-44263fea80a0/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/records/2D9YZMO8YXCJ"><img src="https://img.shields.io/badge/AZ--104-Azure_Identity,_Governance_%26_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="https://www.udemy.com/certificate/UC-8875f82c-b68f-4727-91b5-3d8c39937a00/"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/records/741P52BTSTZN"><img src="https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/records/U65X8C87JVFL"><img src="https://img.shields.io/badge/IBM-Cybersecurity_Careers-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/learning/certificates/bcf391f5526d4c01c03d76fa7028a2a79838f96af88fd4f062b6109b50c9785e/"><img src="https://img.shields.io/badge/Microsoft-Fundamentos_de_Seguridad-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+</p>
 
 ---
 
