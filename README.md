@@ -28,16 +28,7 @@
 - 🛡️ **Hardening** de equipos Windows con Microsoft Defender for Endpoint, reglas ASR, BitLocker y Windows LAPS.
 - 🔄 Migraciones de **Active Directory on-premise a identidad híbrida** y de file shares a SharePoint Online / OneDrive.
 - ⚡ Automatización de operaciones con **PowerShell** y **Microsoft Graph API**.
-- 👥 Experiencia liderando un equipo técnico de 4 personas (soporte L1/L2 y análisis de datos y seguridad).
-- 🌍 Español nativo · Rumano bilingüe (C1) · Inglés (B1).
-
-```powershell
-PS C:\> Get-Engineer -Name "Alin Dediu" | Select-Object Role, Focus, Path
-
-Role  : Systems & Cloud Infrastructure Engineer
-Focus : Intune · Autopilot · Entra ID · Defender · PowerShell
-Path  : Inetum → FYG → Mutualidad de Futbolistas → TSL Projects → TCS
-```
+- 🌍 Español nativo · Rumano bilingüe (C1) · Inglés (B2).
 
 ---
 
@@ -45,17 +36,21 @@ Path  : Inetum → FYG → Mutualidad de Futbolistas → TSL Projects → TCS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,azure,windows,linux,bash,python,docker,git,github,githubactions,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,windows,linux,apple,powershell,bash,git,vscode,java,py,c,html,css&perline=7" />
   </a>
 </p>
 
 | Categoría | Tecnologías |
 |---|---|
-| **Identidad y accesos (IAM)** | `Microsoft Entra ID` `Active Directory` `Acceso Condicional` `MFA` `RBAC` `Zero Trust` `Identidad híbrida` |
+| **Cloud** | `Microsoft Azure` `AWS` `Microsoft 365` `Dynamics 365` |
+| **Identidad y accesos (IAM)** | `Microsoft Entra ID (Azure AD)` `Active Directory` `Acceso Condicional` `MFA` `RBAC` `Zero Trust` |
 | **Gestión de endpoints (MDM)** | `Microsoft Intune` `Windows Autopilot` `Compliance Policies` `BitLocker` `Windows LAPS` |
-| **Seguridad** | `Microsoft Defender for Endpoint` `Reglas ASR` `Remediación EDR` `Hardening Windows` `Security Baselines` |
-| **Infraestructura** | `Windows Server` `DNS` `DHCP` `GPO` `Microsoft 365` `SharePoint Online` `OneDrive` |
-| **Automatización** | `PowerShell` `Microsoft Graph API` `Bash` `Python` `GitHub Actions` |
+| **Ciberseguridad** | `CrowdStrike Falcon` `Rapid7` `Microsoft Defender for Endpoint` `Microsoft Purview` `Parrot Security` |
+| **Sistemas** | `Windows Server` `Linux` `macOS` `Windows 10/11` |
+| **Redes y virtualización** | `Cisco` `VMware` `VirtualBox` `DNS` `DHCP` `VPN` |
+| **Lenguajes y scripting** | `PowerShell` `Python` `Java` `C` `HTML` `CSS` `Bash` |
+| **Automatización** | `Microsoft Graph API` `GitHub Actions` |
+| **Herramientas e IA** | `Visual Studio Code` `Git Bash` `Claude` `Gemini` `ChatGPT` |
 
 ---
 
